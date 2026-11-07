@@ -1,2 +1,9 @@
-# privatecollection-release
-第十艺术 / PrivateCollection Windows 自动更新源。仅更新资产，不存放工程源码或个人资料。
+# PrivateCollection 自动更新源
+
+此仓库仅用于“第十艺术 / PrivateCollection”Windows 安装版的自动更新，不提供独立下载网站。
+
+工程源码和个人资料库不存放在此仓库。Release 资产包含安装包、版本清单和差量下载信息；正式发布后的资产公开可下载。
+
+首次安装包由提供软件的人直接发送。安装版在更新源有正式版本后自动检查和下载，准备好后提示“立即更新 / 稍后”。
+
+草稿 Release 仅用于维护核对，不会被普通客户端发现。当前版本尚处于草稿准备阶段。
